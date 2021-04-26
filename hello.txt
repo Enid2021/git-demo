@@ -1,8 +1,6 @@
 hello atguigu! hello git!222222
 
-<<<<<<< HEAD
 this world is a beautiful;3333333333333333333333333333
-33333333333333333333;
 
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -20,14 +18,13 @@ this world is a beautiful;
 this world is a beautiful;
 this world is a beautiful;
 this world is a beautiful;
-=======
+
 this world is a beautiful place;3333333333333333
 hello 
 
 hello atguigu! hello git!
 hello atguigu! hello git!
 
->>>>>>> hot-fix
 this world is a beautiful;
 this world is a beautiful;
 
