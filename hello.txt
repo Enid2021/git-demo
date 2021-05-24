@@ -34,4 +34,12 @@ test pull
 
 
 
-lhc test lhc 
+lhc test lhc
+
+我是令狐冲
+insert 
+辟邪剑谱
+practice
+
+
+
